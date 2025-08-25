@@ -34,16 +34,16 @@ msgstr "A kiszolgáló leállítása folyamatban, zárd be ezt az ablakot"
 
 #: cps/admin.py:153
 msgid "Success! Database Reconnected"
-msgstr ""
+msgstr "Siker! Az adabázis újracsatlakoztatva"
 
 #: cps/admin.py:156
 msgid "Unknown command"
-msgstr ""
+msgstr "Ismeretlen parancs"
 
 #: cps/admin.py:167
 msgid ""
 "Success! Books queued for Metadata Backup, please check Tasks for result"
-msgstr ""
+msgstr "Siker! A könyvek sorbaállítva a metaadatok biztonsági mentéséhez, kérjük, ellenőrizze a Feladatokban az eredményt."
 
 #: cps/admin.py:223 cps/editbooks.py:744 cps/editbooks.py:787
 #: cps/editbooks.py:1438 cps/updater.py:604 cps/uploader.py:97
@@ -67,26 +67,26 @@ msgstr "Felhasználói felület beállításai"
 #: cps/web.py:774
 #, python-format
 msgid "Custom Column No.%(column)d does not exist in calibre database"
-msgstr ""
+msgstr "Az egyedi oszlop No.%(coloum)d nem létezik a calibre adatbázisban"
 
 #: cps/admin.py:349 cps/templates/admin.html:53
 #, fuzzy
 msgid "Edit Users"
-msgstr "Rendszergazda felhasználó"
+msgstr "FElhasználók szerkesztése"
 
 #: cps/admin.py:393 cps/opds.py:525 cps/templates/grid.html:14
 #: cps/templates/list.html:13
 msgid "All"
-msgstr ""
+msgstr "Összes"
 
 #: cps/admin.py:420 cps/admin.py:1443
 msgid "User not found"
-msgstr ""
+msgstr "A felhasználót nem találtam"
 
 #: cps/admin.py:434
 #, python-brace-format
 msgid "{} users deleted successfully"
-msgstr ""
+msgstr "A következő felhasználókat: {} sikeresen töröltem"
 
 #: cps/admin.py:457 cps/templates/config_view_edit.html:134
 #: cps/templates/user_edit.html:45 cps/templates/user_table.html:81
@@ -95,35 +95,35 @@ msgstr "Mindent mutass"
 
 #: cps/admin.py:478 cps/admin.py:484
 msgid "Malformed request"
-msgstr ""
+msgstr "Hibás kérés"
 
 #: cps/admin.py:496 cps/admin.py:2106
 msgid "Guest Name can't be changed"
-msgstr ""
+msgstr "A vendég neve nem változtatható meg"
 
 #: cps/admin.py:508
 msgid "Guest can't have this role"
-msgstr ""
+msgstr "A vendégnek nem lehet ilyen szerepe"
 
 #: cps/admin.py:520 cps/admin.py:2060
 msgid "No admin user remaining, can't remove admin role"
-msgstr ""
+msgstr "Nem marad rendszergazda felhasználó, a rendszergazdai jogok megvonása nem lehetséges"
 
 #: cps/admin.py:524 cps/admin.py:538
 msgid "Value has to be true or false"
-msgstr ""
+msgstr "Az értéknek csak igaz vagy hamis lehet"
 
 #: cps/admin.py:526
 msgid "Invalid role"
-msgstr ""
+msgstr "Érvénytelen szerep"
 
 #: cps/admin.py:530
 msgid "Guest can't have this view"
-msgstr ""
+msgstr "A vendégeknek nem engedélyezett ez a nézet"
 
 #: cps/admin.py:540
 msgid "Invalid view"
-msgstr ""
+msgstr "Érvénytelen nézet"
 
 #: cps/admin.py:543
 msgid "Guest's Locale is determined automatically and can't be set"
